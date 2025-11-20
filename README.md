@@ -1,5 +1,5 @@
 Mapeador de Profissões para o Futuro do Trabalho
-Global Solution – Computational Thinking with Python – FIAP 2025
+Global Solution / Computational Thinking with Python / FIAP 2025
 
 Este projeto faz parte da avaliação da disciplina e tem como foco entender como as mudanças do mercado de trabalho impactam diferentes profissões, principalmente com o avanço da automação e da inteligência artificial.
 
